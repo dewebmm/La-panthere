@@ -735,8 +735,14 @@ h4 {
     margin-top: 24px;
 }
 
+p{
+    font-size: 16px;
+}
 .white {
-    color: #FFFFFF!important;
+    color: #ffffff!important;
+}
+.white2 {
+    color: white!important;
 }
 
 .portfolio-thumb {
@@ -771,20 +777,20 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #816952;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #fff7f4!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #816952;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #a7876a!important;
     color: #FFFFFF!important;
 }
 
@@ -797,11 +803,11 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #816952!important;
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: #96795f!important;
 }
 
 .icon-dark-slate-blue {
@@ -1020,6 +1026,15 @@ h4 {
         width: 180px;
         height: 320px;
     }
+}
+
+.intro{
+    font-size: 22px;
+    margin-bottom: 20px;
+
+}
+.intro2{
+    font-size: 20px;
 }
 
 @media (max-width: 400px) {
